@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrincePabari
-- 👀 I’m interested in web development and data analytics
-- 🌱 I’m currently learning ASP.NET and ADO.NET
+- 👀 I'm in last year of my computers degree
+- 🌱 I’m currently working in .NET framework
 - 📫 prince.pabari007@gmail.com
 
 <!---
