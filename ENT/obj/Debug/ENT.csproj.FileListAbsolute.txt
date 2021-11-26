@@ -1,0 +1,6 @@
+D:\ASP.Net\Gym_Project\gym_managment\ENT\bin\Debug\ENT.dll
+D:\ASP.Net\Gym_Project\gym_managment\ENT\bin\Debug\ENT.pdb
+D:\ASP.Net\Gym_Project\gym_managment\ENT\obj\Debug\ENT.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Gym_Project\gym_managment\ENT\obj\Debug\ENT.dll
+D:\ASP.Net\Gym_Project\gym_managment\ENT\obj\Debug\ENT.pdb
+D:\ASP.Net\Gym_Project\gym_managment\ENT\obj\Debug\ENT.csprojAssemblyReference.cache
