@@ -1,0 +1,11 @@
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\BAL.dll
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\BAL.pdb
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\DAL.dll
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\ENT.dll
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\DAL.pdb
+D:\ASP.Net\Gym_Project\gym_managment\BAL\bin\Debug\ENT.pdb
+D:\ASP.Net\Gym_Project\gym_managment\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+D:\ASP.Net\Gym_Project\gym_managment\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Gym_Project\gym_managment\BAL\obj\Debug\BAL.csproj.CopyComplete
+D:\ASP.Net\Gym_Project\gym_managment\BAL\obj\Debug\BAL.dll
+D:\ASP.Net\Gym_Project\gym_managment\BAL\obj\Debug\BAL.pdb

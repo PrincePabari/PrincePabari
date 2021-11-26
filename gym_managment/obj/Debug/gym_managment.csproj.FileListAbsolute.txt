@@ -1,0 +1,14 @@
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\gym_managment.dll.config
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\gym_managment.dll
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\gym_managment.pdb
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\obj\Debug\gym_managment.csprojAssemblyReference.cache
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\obj\Debug\gym_managment.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\obj\Debug\gym_managment.csproj.CopyComplete
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\obj\Debug\gym_managment.dll
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\obj\Debug\gym_managment.pdb
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\BAL.dll
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\DAL.dll
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\ENT.dll
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\BAL.pdb
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\DAL.pdb
+D:\ASP.Net\Gym_Project\gym_managment\gym_managment\bin\ENT.pdb
