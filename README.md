@@ -1,6 +1,6 @@
 # Hey, Welcome to my profile fellow human👋
 
-## Who I am
+## Who Am I
 
 I started out building backend services in .NET and somewhere along the way got pulled
 deep into the world of LLMs — not the research side, but the messy, real part: making
@@ -14,26 +14,14 @@ Azure, writing Python and C# in equal measure, and obsessing over the gap betwee
 
 ## What I Do
 
-### Generative AI & Agentic Systems
-I design and ship LLM-powered systems end-to-end — RAG pipelines with embedding-based
-retrieval and reranking, LangGraph agent orchestration with tool calling and state
-management, and evaluation frameworks (OpenEvals, AgentEvals, LLM-as-judge) that
-validate behavior before it reaches users. I also care deeply about cost: model
-selection, prompt optimization, and deployment strategy are as much a part of my work
-as the AI itself.
+**Generative AI & Agentic Systems**  
+RAG pipelines, LangGraph agents, tool calling, evaluation frameworks — and the cost engineering to make it all viable in production.
 
-### .NET & Python Backend Engineering
-The AI layer needs something solid underneath it. I build that with .NET Core and
-FastAPI — event-driven microservices, streaming APIs, long-polling patterns, and
-distributed systems designed for real operational load. My .NET work often sits at the
-boundary between AI and infrastructure: handoff services, message-driven coordination,
-and backend patterns that keep latency predictable.
+**Backend Engineering — .NET & Python**  
+Event-driven microservices, streaming APIs, and distributed patterns in .NET Core and FastAPI — the foundation the AI layer sits on.
 
-### Azure, End to End
-I work across the Azure stack in depth — not just deploying to it, but designing around
-it. That includes Azure OpenAI Service, Cosmos DB, AKS, Service Bus, App Configuration,
-Key Vault, Application Insights, Azure Monitor, KQL, CLU, Azure Bot Service, Power
-Automate, and Traffic Manager. Observability is built in from the start, not bolted on.
+**Azure, End to End**  
+Designing around the Azure stack, not just deploying to it — OpenAI Service, Cosmos DB, AKS, Service Bus, App Insights, Monitor, CLU, and more.
 
 ---
 
